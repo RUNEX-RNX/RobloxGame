@@ -1,6 +1,6 @@
 local Games = {
-    [994732206] = "", -- Blox Fruit
     [10200395747] = "", -- Grow A Garden 2
+    [994732206] = "https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/BloxFruitFarmer", -- Blox Fruit
     [122902171482835] = "https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/1-Health-Per-Click", -- +1 healt per click
     [10449761463] = "https://raw.githubusercontent.com/RUNEX-RNX/The-strongest-battlegrounds/refs/heads/main/MainScript1.RUNEX", -- The strongest battleground 
     [537413528] = "https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/Build-A-Boat", -- build a boat
