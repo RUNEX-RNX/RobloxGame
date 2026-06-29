@@ -5,6 +5,5 @@ local Games = {
     [994732206] = "https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/BloxFruitFarmer", -- Blox Fruit
     [537413528] = "https://raw.githubusercontent.com/RUNEX-RNX/RandomScripts/refs/heads/main/Build-A-Boat", -- build a boat
 }
-return Games
 
---  [109983668079237] = "https://raw.githubusercontent.com/RUNEX-RNX/Sab/refs/heads/main/RNXhub", -- Steal a brainrot 
+return Games
